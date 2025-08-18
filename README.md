@@ -17,4 +17,4 @@ It supports basic mathematical operations, clear, delete, and percentage calcula
 
 ## Preview 
 
-<img src="Weather App/photos/WeatherApp.png" alt="Weather App preview" width="500">
+<img src="Calculator/pictures/Calculator.png" alt="Modern Calculator preview" width="500">
