@@ -14,3 +14,7 @@ It supports basic mathematical operations, clear, delete, and percentage calcula
 - HTML5  
 - CSS3  
 - Vanilla JavaScript  
+
+## Preview 
+
+<img src="Weather App/photos/WeatherApp.png" alt="Weather App preview" width="500">
